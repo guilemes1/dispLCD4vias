@@ -2,7 +2,7 @@
 
 Projeto desenvolvido para utilização do display LCD
 
-* Método utilizado: Texto estruturado
+* Método utilizado: Máquina de estados
 
 * Ambiente de desenvolvimento: MPLABX-IDE
 
